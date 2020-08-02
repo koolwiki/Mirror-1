@@ -3,7 +3,7 @@ module.exports = {
     {
       'key': 'google',
       'proxied': 'https://www.google.com/',
-      'proxying': ''
+      'proxying': 'google.mirror-1.vercel.app'
     },
     {
       'key': 'scholar-google',
@@ -48,7 +48,7 @@ module.exports = {
     {
       'key': 'youtube',
       'proxied': 'https://www.youtube.com/',
-      'proxying': ''
+      'proxying': 'youtube.mirror-1.vercel.app'
     },
     {
       'key': 'twitter',
